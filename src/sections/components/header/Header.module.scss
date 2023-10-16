@@ -1,0 +1,15 @@
+.HeaderContainert{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 85rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  &:hover {
+    background-color: #e5e5e5;
+  }
+}
+.logo-right{
+  max-width: 15rem;
+  max-height: 15rem;
+}
